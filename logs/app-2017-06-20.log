@@ -1,0 +1,488 @@
+00:36:53.970 INFO  smokeTests.SmokeTest -~~~~~~~~~~~~~~~~~~~~~~~~~Test in Chrome Browser~~~~~~~~~~~~~~~~~~~~~~~~~
+00:38:53.594 INFO  smokeTests.SmokeTest -======================Test Started======================
+00:38:53.595 INFO  smokeTests.SmokeTest -Test for Log in as Contact Centre User Test
+00:38:54.648 INFO  pages.LoginPage -Locating the User Name Text Box
+00:38:57.993 INFO  pages.LoginPage -Type User Name as automation.operative@m3test.com
+00:38:58.170 INFO  pages.LoginPage -Locating the Password text box
+00:38:59.633 INFO  pages.LoginPage -Type Password as Test12345
+00:42:05.487 INFO  smokeTests.SmokeTest -~~~~~~~~~~~~~~~~~~~~~~~~~Test in Chrome Browser~~~~~~~~~~~~~~~~~~~~~~~~~
+00:43:17.164 INFO  smokeTests.SmokeTest -======================Test Started======================
+00:43:17.165 INFO  smokeTests.SmokeTest -Test for Log in as Contact Centre User Test
+00:43:17.823 INFO  pages.LoginPage -Locating the User Name Text Box
+00:43:19.277 INFO  pages.LoginPage -Type User Name as automation.operative@m3test.com
+00:43:19.403 INFO  pages.LoginPage -Locating the Password text box
+00:43:20.160 INFO  pages.LoginPage -Type Password as Test12345
+00:43:26.417 INFO  pages.LoginPage -Click on the Login Button
+00:43:26.612 INFO  pages.HomePage -Logout button Element found
+00:43:26.852 INFO  smokeTests.SmokeTest -Assert if Logout Button is present
+00:43:26.852 INFO  smokeTests.SmokeTest -======================Test Ended======================
+00:43:26.887 INFO  smokeTests.SmokeTest -======================Test Started======================
+00:43:26.887 INFO  smokeTests.SmokeTest -Test to Navigate to Log on Report Page
+00:43:31.077 INFO  pages.HomePage -Clicked on Log a new report button
+00:43:31.143 INFO  smokeTests.SmokeTest -Assert if Title is - Log a new report - SafeTrack
+00:43:31.143 INFO  smokeTests.SmokeTest -======================Test Ended======================
+00:43:31.163 INFO  smokeTests.SmokeTest -======================Test Started======================
+00:43:31.164 INFO  smokeTests.SmokeTest -Test to Fill Log a New Report Page
+00:43:32.096 INFO  pages.LogNewReportPage -Selected on Reporting Option
+00:43:34.231 INFO  pages.LogNewReportPage -Reporter First Name entered Tester F
+00:43:35.069 INFO  pages.LogNewReportPage -Reporter Surname entered Tester S
+00:43:35.785 INFO  pages.LogNewReportPage -Selected Reporter Type - Medical Doctor from the Dropdown
+00:43:36.078 INFO  pages.LogNewReportPage -Initial Report is selected by default
+00:43:38.479 INFO  pages.LogNewReportPage -Company Aware Date entered
+00:43:39.751 INFO  pages.LogNewReportPage -Patient ID entered
+00:43:41.027 INFO  pages.LogNewReportPage -Other Reference entered
+00:43:41.694 INFO  pages.LogNewReportPage -Product complaint to report checked
+00:43:46.873 INFO  pages.LogNewReportPage -Complaint description entered
+00:43:57.332 INFO  pages.LogNewReportPage -Next button on the Log a New Report Page clicked
+00:43:57.413 INFO  smokeTests.SmokeTest -Assert if Title is - Adverse Events - Safe Track
+00:43:57.413 INFO  smokeTests.SmokeTest -======================Test Ended======================
+00:43:59.328 INFO  smokeTests.SmokeTest -Assert if Title is - Adverse Events - Safe Track
+00:44:48.607 INFO  smokeTests.SmokeTest -======================Test Ended======================
+01:43:34.578 INFO  smokeTests.SmokeTest -~~~~~~~~~~~~~~~~~~~~~~~~~Test in Chrome Browser~~~~~~~~~~~~~~~~~~~~~~~~~
+01:45:16.094 INFO  smokeTests.SmokeTest -======================Test Started======================
+01:45:16.094 INFO  smokeTests.SmokeTest -Test for Log in as Contact Centre User Test
+01:45:16.697 INFO  pages.LoginPage -Locating the User Name Text Box
+01:45:20.122 INFO  pages.LoginPage -Type User Name as automation.operative@m3test.com
+01:45:20.254 INFO  pages.LoginPage -Locating the Password text box
+01:45:21.431 INFO  pages.LoginPage -Type Password as Test12345
+01:45:28.393 INFO  pages.LoginPage -Click on the Login Button
+01:45:28.673 INFO  pages.HomePage -Logout button Element found
+01:45:28.791 INFO  smokeTests.SmokeTest -Assert if Logout Button is present
+01:45:28.792 INFO  smokeTests.SmokeTest -======================Test Ended======================
+01:45:28.818 INFO  smokeTests.SmokeTest -======================Test Started======================
+01:45:28.819 INFO  smokeTests.SmokeTest -Test to Navigate to Log on Report Page
+01:45:32.408 INFO  pages.HomePage -Clicked on Log a new report button
+01:45:32.558 INFO  smokeTests.SmokeTest -Assert if Title is - Log a new report - SafeTrack
+01:45:32.558 INFO  smokeTests.SmokeTest -======================Test Ended======================
+01:45:32.579 INFO  smokeTests.SmokeTest -======================Test Started======================
+01:45:32.579 INFO  smokeTests.SmokeTest -Test to Fill Log a New Report Page
+01:45:33.519 INFO  pages.LogNewReportPage -Selected on Reporting Option
+01:45:34.997 INFO  pages.LogNewReportPage -Reporter First Name entered Tester F
+01:45:35.926 INFO  pages.LogNewReportPage -Reporter Surname entered Tester S
+01:45:36.935 INFO  pages.LogNewReportPage -Selected Reporter Type - Medical Doctor from the Dropdown
+01:45:37.206 INFO  pages.LogNewReportPage -Initial Report is selected by default
+01:45:39.587 INFO  pages.LogNewReportPage -Company Aware Date entered
+01:45:41.204 INFO  pages.LogNewReportPage -Patient ID entered
+01:45:42.328 INFO  pages.LogNewReportPage -Other Reference entered
+01:45:43.073 INFO  pages.LogNewReportPage -Product complaint to report checked
+01:45:47.109 INFO  pages.LogNewReportPage -Complaint description entered
+01:45:58.626 INFO  pages.LogNewReportPage -Next button on the Log a New Report Page clicked
+01:45:58.695 INFO  smokeTests.SmokeTest -Assert if Title is - Adverse Events - Safe Track
+01:45:58.695 INFO  smokeTests.SmokeTest -======================Test Ended======================
+01:46:00.848 INFO  smokeTests.SmokeTest -Assert if Title is - Adverse Events - Safe Track
+01:46:53.887 INFO  smokeTests.SmokeTest -======================Test Ended======================
+01:51:36.661 INFO  smokeTests.SmokeTest -~~~~~~~~~~~~~~~~~~~~~~~~~Test in Chrome Browser~~~~~~~~~~~~~~~~~~~~~~~~~
+01:53:03.843 INFO  smokeTests.SmokeTest -======================Test Started======================
+01:53:03.845 INFO  smokeTests.SmokeTest -Test for Log in as Contact Centre User Test
+01:53:09.793 INFO  pages.LoginPage -Locating the User Name Text Box
+01:53:11.306 INFO  pages.LoginPage -Type User Name as automation.operative@m3test.com
+01:53:11.490 INFO  pages.LoginPage -Locating the Password text box
+01:53:12.265 INFO  pages.LoginPage -Type Password as Test12345
+01:53:20.701 INFO  pages.LoginPage -Click on the Login Button
+01:53:21.411 INFO  pages.HomePage -Logout button Element found
+01:53:21.687 INFO  smokeTests.SmokeTest -Assert if Logout Button is present
+01:53:21.688 INFO  smokeTests.SmokeTest -======================Test Ended======================
+01:53:21.760 INFO  smokeTests.SmokeTest -======================Test Started======================
+01:53:21.760 INFO  smokeTests.SmokeTest -Test to Navigate to Log on Report Page
+01:53:28.699 INFO  pages.HomePage -Clicked on Log a new report button
+01:53:28.756 INFO  smokeTests.SmokeTest -Assert if Title is - Log a new report - SafeTrack
+01:53:28.756 INFO  smokeTests.SmokeTest -======================Test Ended======================
+01:53:28.784 INFO  smokeTests.SmokeTest -======================Test Started======================
+01:53:28.784 INFO  smokeTests.SmokeTest -Test to Fill Log a New Report Page
+01:53:30.210 INFO  pages.LogNewReportPage -Selected on Reporting Option
+01:53:31.565 INFO  pages.LogNewReportPage -Reporter First Name entered Tester F
+01:53:32.415 INFO  pages.LogNewReportPage -Reporter Surname entered Tester S
+01:53:33.180 INFO  pages.LogNewReportPage -Selected Reporter Type - Medical Doctor from the Dropdown
+01:53:33.480 INFO  pages.LogNewReportPage -Initial Report is selected by default
+01:53:36.816 INFO  pages.LogNewReportPage -Company Aware Date entered
+01:53:37.833 INFO  pages.LogNewReportPage -Patient ID entered
+01:53:38.950 INFO  pages.LogNewReportPage -Other Reference entered
+01:53:39.672 INFO  pages.LogNewReportPage -Product complaint to report checked
+01:53:43.929 INFO  pages.LogNewReportPage -Complaint description entered
+01:53:57.746 INFO  pages.LogNewReportPage -Next button on the Log a New Report Page clicked
+01:53:58.614 INFO  smokeTests.SmokeTest -Assert if Title is - Adverse Events - Safe Track
+01:53:58.615 INFO  smokeTests.SmokeTest -======================Test Ended======================
+01:54:01.497 INFO  smokeTests.SmokeTest -Assert if Title is - Adverse Events - Safe Track
+01:54:53.411 INFO  smokeTests.SmokeTest -======================Test Ended======================
+17:20:28.391 INFO  smokeTests.SmokeTest -~~~~~~~~~~~~~~~~~~~~~~~~~Test in Chrome Browser~~~~~~~~~~~~~~~~~~~~~~~~~
+17:21:09.495 INFO  smokeTests.SmokeTest -======================Test Started======================
+17:21:09.495 INFO  smokeTests.SmokeTest -Test for Log in as Contact Centre User Test
+17:21:10.061 INFO  pages.LoginPage -Locating the User Name Text Box
+17:21:11.112 INFO  pages.LoginPage -Type User Name as automation.operative@m3test.com
+17:21:11.191 INFO  pages.LoginPage -Locating the Password text box
+17:21:11.632 INFO  pages.LoginPage -Type Password as Test12345
+17:21:14.975 INFO  pages.LoginPage -Click on the Login Button
+17:21:15.311 INFO  pages.HomePage -Logout button Element found
+17:21:15.395 INFO  smokeTests.SmokeTest -Assert if Logout Button is present
+17:21:15.395 INFO  smokeTests.SmokeTest -======================Test Ended======================
+17:21:15.419 INFO  smokeTests.SmokeTest -======================Test Started======================
+17:21:15.419 INFO  smokeTests.SmokeTest -Test to Navigate to Log on Report Page
+17:21:17.638 INFO  pages.HomePage -Clicked on Log a new report button
+17:21:17.670 INFO  smokeTests.SmokeTest -Assert if Title is - Log a new report - SafeTrack
+17:21:17.670 INFO  smokeTests.SmokeTest -======================Test Ended======================
+17:21:17.686 INFO  smokeTests.SmokeTest -======================Test Started======================
+17:21:17.686 INFO  smokeTests.SmokeTest -Test to Fill Log a New Report Page
+17:21:18.247 INFO  pages.LogNewReportPage -Selected on Reporting Option
+17:21:19.884 INFO  pages.LogNewReportPage -Reporter First Name entered Tester F
+17:21:20.460 INFO  pages.LogNewReportPage -Reporter Surname entered Tester S
+17:21:21.060 INFO  pages.LogNewReportPage -Selected Reporter Type - Medical Doctor from the Dropdown
+17:21:21.268 INFO  pages.LogNewReportPage -Initial Report is selected by default
+17:21:22.820 INFO  pages.LogNewReportPage -Company Aware Date entered
+17:21:23.733 INFO  pages.LogNewReportPage -Patient ID entered
+17:21:24.433 INFO  pages.LogNewReportPage -Other Reference entered
+17:21:24.900 INFO  pages.LogNewReportPage -Product complaint to report checked
+17:21:27.245 INFO  pages.LogNewReportPage -Complaint description entered
+17:21:33.066 INFO  pages.LogNewReportPage -Next button on the Log a New Report Page clicked
+17:21:33.094 INFO  smokeTests.SmokeTest -Assert if Title is - Adverse Events - Safe Track
+17:21:33.094 INFO  smokeTests.SmokeTest -======================Test Ended======================
+17:21:34.125 INFO  smokeTests.SmokeTest -Assert if Title is - Adverse Events - Safe Track
+17:28:00.584 INFO  smokeTests.SmokeTest -~~~~~~~~~~~~~~~~~~~~~~~~~Test in Chrome Browser~~~~~~~~~~~~~~~~~~~~~~~~~
+17:28:27.658 INFO  smokeTests.SmokeTest -======================Test Started======================
+17:28:27.658 INFO  smokeTests.SmokeTest -Test for Log in as Contact Centre User Test
+17:28:27.985 INFO  pages.LoginPage -Locating the User Name Text Box
+17:28:28.654 INFO  pages.LoginPage -Type User Name as automation.operative@m3test.com
+17:28:28.741 INFO  pages.LoginPage -Locating the Password text box
+17:28:29.133 INFO  pages.LoginPage -Type Password as Test12345
+17:28:32.036 INFO  pages.LoginPage -Click on the Login Button
+17:28:32.260 INFO  pages.HomePage -Logout button Element found
+17:28:32.427 INFO  smokeTests.SmokeTest -Assert if Logout Button is present
+17:28:32.427 INFO  smokeTests.SmokeTest -======================Test Ended======================
+17:28:32.455 INFO  smokeTests.SmokeTest -======================Test Started======================
+17:28:32.455 INFO  smokeTests.SmokeTest -Test to Navigate to Log on Report Page
+17:28:34.346 INFO  pages.HomePage -Clicked on Log a new report button
+17:28:34.384 INFO  smokeTests.SmokeTest -Assert if Title is - Log a new report - SafeTrack
+17:28:34.384 INFO  smokeTests.SmokeTest -======================Test Ended======================
+17:28:34.401 INFO  smokeTests.SmokeTest -======================Test Started======================
+17:28:34.402 INFO  smokeTests.SmokeTest -Test to Fill Log a New Report Page
+17:28:34.873 INFO  pages.LogNewReportPage -Selected on Reporting Option
+17:28:35.438 INFO  pages.LogNewReportPage -Reporter First Name entered Tester F
+17:28:35.933 INFO  pages.LogNewReportPage -Reporter Surname entered Tester S
+17:28:36.364 INFO  pages.LogNewReportPage -Selected Reporter Type - Medical Doctor from the Dropdown
+17:28:36.588 INFO  pages.LogNewReportPage -Initial Report is selected by default
+17:28:37.902 INFO  pages.LogNewReportPage -Company Aware Date entered
+17:28:38.666 INFO  pages.LogNewReportPage -Patient ID entered
+17:28:39.273 INFO  pages.LogNewReportPage -Other Reference entered
+17:28:39.702 INFO  pages.LogNewReportPage -Product complaint to report checked
+17:28:41.833 INFO  pages.LogNewReportPage -Complaint description entered
+17:28:46.002 INFO  pages.LogNewReportPage -Next button on the Log a New Report Page clicked
+17:28:46.062 INFO  smokeTests.SmokeTest -Assert if Title is - Adverse Events - Safe Track
+17:28:46.063 INFO  smokeTests.SmokeTest -======================Test Ended======================
+17:28:47.172 INFO  smokeTests.SmokeTest -Assert if Title is - Adverse Events - Safe Track
+17:32:23.361 INFO  smokeTests.SmokeTest -~~~~~~~~~~~~~~~~~~~~~~~~~Test in Chrome Browser~~~~~~~~~~~~~~~~~~~~~~~~~
+17:33:00.564 INFO  smokeTests.SmokeTest -======================Test Started======================
+17:33:00.565 INFO  smokeTests.SmokeTest -Test for Log in as Contact Centre User Test
+17:33:01.179 INFO  pages.LoginPage -Locating the User Name Text Box
+17:33:02.532 INFO  pages.LoginPage -Type User Name as automation.operative@m3test.com
+17:33:02.634 INFO  pages.LoginPage -Locating the Password text box
+17:33:03.355 INFO  pages.LoginPage -Type Password as Test12345
+17:33:07.392 INFO  pages.LoginPage -Click on the Login Button
+17:33:07.856 INFO  pages.HomePage -Logout button Element found
+17:33:08.040 INFO  smokeTests.SmokeTest -Assert if Logout Button is present
+17:33:08.040 INFO  smokeTests.SmokeTest -======================Test Ended======================
+17:33:08.072 INFO  smokeTests.SmokeTest -======================Test Started======================
+17:33:08.072 INFO  smokeTests.SmokeTest -Test to Navigate to Log on Report Page
+17:33:11.242 INFO  pages.HomePage -Clicked on Log a new report button
+17:33:11.290 INFO  smokeTests.SmokeTest -Assert if Title is - Log a new report - SafeTrack
+17:33:11.290 INFO  smokeTests.SmokeTest -======================Test Ended======================
+17:33:11.313 INFO  smokeTests.SmokeTest -======================Test Started======================
+17:33:11.313 INFO  smokeTests.SmokeTest -Test to Fill Log a New Report Page
+17:33:11.988 INFO  pages.LogNewReportPage -Selected on Reporting Option
+17:33:12.836 INFO  pages.LogNewReportPage -Reporter First Name entered Tester F
+17:33:13.753 INFO  pages.LogNewReportPage -Reporter Surname entered Tester S
+17:33:14.587 INFO  pages.LogNewReportPage -Selected Reporter Type - Medical Doctor from the Dropdown
+17:33:15.002 INFO  pages.LogNewReportPage -Initial Report is selected by default
+17:33:17.486 INFO  pages.LogNewReportPage -Company Aware Date entered
+17:33:18.716 INFO  pages.LogNewReportPage -Patient ID entered
+17:33:19.963 INFO  pages.LogNewReportPage -Other Reference entered
+17:33:20.795 INFO  pages.LogNewReportPage -Product complaint to report checked
+17:33:24.405 INFO  pages.LogNewReportPage -Complaint description entered
+17:33:30.661 INFO  pages.LogNewReportPage -Next button on the Log a New Report Page clicked
+17:33:30.765 INFO  smokeTests.SmokeTest -Assert if Title is - Adverse Events - Safe Track
+17:33:30.765 INFO  smokeTests.SmokeTest -======================Test Ended======================
+17:33:32.331 INFO  smokeTests.SmokeTest -Assert if Title is - Adverse Events - Safe Track
+17:37:10.337 INFO  smokeTests.SmokeTest -~~~~~~~~~~~~~~~~~~~~~~~~~Test in Chrome Browser~~~~~~~~~~~~~~~~~~~~~~~~~
+17:37:23.988 INFO  smokeTests.SmokeTest -======================Test Started======================
+17:37:23.988 INFO  smokeTests.SmokeTest -Test for Log in as Contact Centre User Test
+17:37:24.294 INFO  pages.LoginPage -Locating the User Name Text Box
+17:37:25.003 INFO  pages.LoginPage -Type User Name as automation.operative@m3test.com
+17:37:25.088 INFO  pages.LoginPage -Locating the Password text box
+17:37:25.479 INFO  pages.LoginPage -Type Password as Test12345
+17:37:28.540 INFO  pages.LoginPage -Click on the Login Button
+17:37:28.804 INFO  pages.HomePage -Logout button Element found
+17:37:28.939 INFO  smokeTests.SmokeTest -Assert if Logout Button is present
+17:37:28.939 INFO  smokeTests.SmokeTest -======================Test Ended======================
+17:37:28.963 INFO  smokeTests.SmokeTest -======================Test Started======================
+17:37:28.963 INFO  smokeTests.SmokeTest -Test to Navigate to Log on Report Page
+17:37:30.835 INFO  pages.HomePage -Clicked on Log a new report button
+17:37:30.867 INFO  smokeTests.SmokeTest -Assert if Title is - Log a new report - SafeTrack
+17:37:30.867 INFO  smokeTests.SmokeTest -======================Test Ended======================
+17:37:30.883 INFO  smokeTests.SmokeTest -======================Test Started======================
+17:37:30.887 INFO  smokeTests.SmokeTest -Test to Fill Log a New Report Page
+17:37:31.363 INFO  pages.LogNewReportPage -Selected on Reporting Option
+17:37:31.941 INFO  pages.LogNewReportPage -Reporter First Name entered Tester F
+17:37:32.431 INFO  pages.LogNewReportPage -Reporter Surname entered Tester S
+17:37:32.850 INFO  pages.LogNewReportPage -Selected Reporter Type - Medical Doctor from the Dropdown
+17:37:33.050 INFO  pages.LogNewReportPage -Initial Report is selected by default
+17:37:34.442 INFO  pages.LogNewReportPage -Company Aware Date entered
+17:37:35.162 INFO  pages.LogNewReportPage -Patient ID entered
+17:37:35.804 INFO  pages.LogNewReportPage -Other Reference entered
+17:37:36.236 INFO  pages.LogNewReportPage -Product complaint to report checked
+17:37:38.580 INFO  pages.LogNewReportPage -Complaint description entered
+17:37:42.708 INFO  pages.LogNewReportPage -Next button on the Log a New Report Page clicked
+17:37:42.776 INFO  smokeTests.SmokeTest -Assert if Title is - Adverse Events - Safe Track
+17:37:42.776 INFO  smokeTests.SmokeTest -======================Test Ended======================
+17:37:44.013 INFO  smokeTests.SmokeTest -Assert if Title is - Adverse Events - Safe Track
+17:51:20.608 INFO  smokeTests.SmokeTest -~~~~~~~~~~~~~~~~~~~~~~~~~Test in Chrome Browser~~~~~~~~~~~~~~~~~~~~~~~~~
+17:51:58.439 INFO  smokeTests.SmokeTest -======================Test Started======================
+17:51:58.439 INFO  smokeTests.SmokeTest -Test for Log in as Contact Centre User Test
+17:52:01.109 INFO  pages.LoginPage -Locating the User Name Text Box
+17:52:01.765 INFO  pages.LoginPage -Type User Name as automation.operative@m3test.com
+17:52:01.833 INFO  pages.LoginPage -Locating the Password text box
+17:52:02.214 INFO  pages.LoginPage -Type Password as Test12345
+17:52:05.481 INFO  pages.LoginPage -Click on the Login Button
+17:52:05.825 INFO  pages.HomePage -Logout button Element found
+17:52:05.944 INFO  smokeTests.SmokeTest -Assert if Logout Button is present
+17:52:05.944 INFO  smokeTests.SmokeTest -======================Test Ended======================
+17:52:05.960 INFO  smokeTests.SmokeTest -======================Test Started======================
+17:52:05.960 INFO  smokeTests.SmokeTest -Test to Navigate to Log on Report Page
+17:52:08.162 INFO  pages.HomePage -Clicked on Log a new report button
+17:52:08.198 INFO  smokeTests.SmokeTest -Assert if Title is - Log a new report - SafeTrack
+17:52:08.198 INFO  smokeTests.SmokeTest -======================Test Ended======================
+17:52:08.218 INFO  smokeTests.SmokeTest -======================Test Started======================
+17:52:08.218 INFO  smokeTests.SmokeTest -Test to Fill Log a New Report Page
+17:52:08.867 INFO  pages.LogNewReportPage -Selected on Reporting Option
+17:52:09.627 INFO  pages.LogNewReportPage -Reporter First Name entered Tester F
+17:52:10.132 INFO  pages.LogNewReportPage -Reporter Surname entered Tester S
+17:52:10.592 INFO  pages.LogNewReportPage -Selected Reporter Type - Medical Doctor from the Dropdown
+17:52:10.816 INFO  pages.LogNewReportPage -Initial Report is selected by default
+17:52:12.669 INFO  pages.LogNewReportPage -Company Aware Date entered
+17:52:13.459 INFO  pages.LogNewReportPage -Patient ID entered
+17:52:14.211 INFO  pages.LogNewReportPage -Other Reference entered
+17:52:14.700 INFO  pages.LogNewReportPage -Product complaint to report checked
+17:52:17.158 INFO  pages.LogNewReportPage -Complaint description entered
+17:52:22.408 INFO  pages.LogNewReportPage -Next button on the Log a New Report Page clicked
+17:52:22.436 INFO  smokeTests.SmokeTest -Assert if Title is - Adverse Events - Safe Track
+17:52:22.440 INFO  smokeTests.SmokeTest -======================Test Ended======================
+17:52:23.486 INFO  smokeTests.SmokeTest -Assert if Title is - Adverse Events - Safe Track
+17:54:15.424 INFO  smokeTests.SmokeTest -~~~~~~~~~~~~~~~~~~~~~~~~~Test in Chrome Browser~~~~~~~~~~~~~~~~~~~~~~~~~
+17:54:55.908 INFO  smokeTests.SmokeTest -======================Test Started======================
+17:54:55.911 INFO  smokeTests.SmokeTest -Test for Log in as Contact Centre User Test
+17:54:56.521 INFO  pages.LoginPage -Locating the User Name Text Box
+17:54:58.158 INFO  pages.LoginPage -Type User Name as automation.operative@m3test.com
+17:54:58.262 INFO  pages.LoginPage -Locating the Password text box
+17:54:58.778 INFO  pages.LoginPage -Type Password as Test12345
+17:55:03.859 INFO  pages.LoginPage -Click on the Login Button
+17:55:04.367 INFO  pages.HomePage -Logout button Element found
+17:55:04.520 INFO  smokeTests.SmokeTest -Assert if Logout Button is present
+17:55:04.520 INFO  smokeTests.SmokeTest -======================Test Ended======================
+17:55:04.545 INFO  smokeTests.SmokeTest -======================Test Started======================
+17:55:04.545 INFO  smokeTests.SmokeTest -Test to Navigate to Log on Report Page
+17:55:09.480 INFO  pages.HomePage -Clicked on Log a new report button
+17:55:09.584 INFO  smokeTests.SmokeTest -Assert if Title is - Log a new report - SafeTrack
+17:55:09.584 INFO  smokeTests.SmokeTest -======================Test Ended======================
+17:55:09.600 INFO  smokeTests.SmokeTest -======================Test Started======================
+17:55:09.600 INFO  smokeTests.SmokeTest -Test to Fill Log a New Report Page
+17:55:10.664 INFO  pages.LogNewReportPage -Selected on Reporting Option
+17:55:12.348 INFO  pages.LogNewReportPage -Reporter First Name entered Tester F
+17:55:13.799 INFO  pages.LogNewReportPage -Reporter Surname entered Tester S
+17:55:14.530 INFO  pages.LogNewReportPage -Selected Reporter Type - Medical Doctor from the Dropdown
+17:55:14.991 INFO  pages.LogNewReportPage -Initial Report is selected by default
+17:55:18.402 INFO  pages.LogNewReportPage -Company Aware Date entered
+17:55:19.503 INFO  pages.LogNewReportPage -Patient ID entered
+17:55:20.862 INFO  pages.LogNewReportPage -Other Reference entered
+17:55:21.650 INFO  pages.LogNewReportPage -Product complaint to report checked
+17:55:25.604 INFO  pages.LogNewReportPage -Complaint description entered
+17:55:34.468 INFO  pages.LogNewReportPage -Next button on the Log a New Report Page clicked
+17:55:34.651 INFO  smokeTests.SmokeTest -Assert if Title is - Adverse Events - Safe Track
+17:55:34.652 INFO  smokeTests.SmokeTest -======================Test Ended======================
+17:55:37.282 INFO  smokeTests.SmokeTest -Assert if Title is - Adverse Events - Safe Track
+18:18:54.021 INFO  smokeTests.SmokeTest -~~~~~~~~~~~~~~~~~~~~~~~~~Test in Chrome Browser~~~~~~~~~~~~~~~~~~~~~~~~~
+18:19:12.970 INFO  smokeTests.SmokeTest -======================Test Started======================
+18:19:12.970 INFO  smokeTests.SmokeTest -Test for Log in as Contact Centre User Test
+18:25:00.357 INFO  smokeTests.SmokeTest -~~~~~~~~~~~~~~~~~~~~~~~~~Test in Chrome Browser~~~~~~~~~~~~~~~~~~~~~~~~~
+18:25:28.900 INFO  smokeTests.SmokeTest -======================Test Started======================
+18:25:28.901 INFO  smokeTests.SmokeTest -Test for Log in as Contact Centre User Test
+18:25:29.151 INFO  pages.LoginPage -Locating the User Name Text Box
+18:25:29.393 INFO  pages.LoginPage -Type User Name as automation.operative@m3test.com
+18:25:29.419 INFO  pages.LoginPage -Locating the Password text box
+18:25:29.547 INFO  pages.LoginPage -Type Password as Test12345
+18:25:31.357 INFO  pages.LoginPage -Click on the Login Button
+18:25:31.463 INFO  pages.HomePage -Logout button Element found
+18:25:31.516 INFO  smokeTests.SmokeTest -Assert if Logout Button is present
+18:25:31.516 INFO  smokeTests.SmokeTest -======================Test Ended======================
+18:25:31.524 INFO  smokeTests.SmokeTest -======================Test Started======================
+18:25:31.524 INFO  smokeTests.SmokeTest -Test to Navigate to Log on Report Page
+18:25:32.392 INFO  pages.HomePage -Clicked on Log a new report button
+18:25:32.402 INFO  smokeTests.SmokeTest -Assert if Title is - Log a new report - SafeTrack
+18:25:32.402 INFO  smokeTests.SmokeTest -======================Test Ended======================
+18:25:32.409 INFO  smokeTests.SmokeTest -======================Test Started======================
+18:25:32.409 INFO  smokeTests.SmokeTest -Test to Fill Log a New Report Page
+18:25:32.582 INFO  pages.LogNewReportPage -Selected on Reporting Option
+18:25:32.828 INFO  pages.LogNewReportPage -Reporter First Name entered Tester F
+18:25:32.993 INFO  pages.LogNewReportPage -Reporter Surname entered Tester S
+18:25:33.176 INFO  pages.LogNewReportPage -Selected Reporter Type - Medical Doctor from the Dropdown
+18:25:33.241 INFO  pages.LogNewReportPage -Initial Report is selected by default
+18:25:33.736 INFO  pages.LogNewReportPage -Company Aware Date entered
+18:25:33.979 INFO  pages.LogNewReportPage -Patient ID entered
+18:25:34.209 INFO  pages.LogNewReportPage -Other Reference entered
+18:25:34.353 INFO  pages.LogNewReportPage -Product complaint to report checked
+18:25:34.976 INFO  pages.LogNewReportPage -Complaint description entered
+18:25:37.764 INFO  pages.LogNewReportPage -Next button on the Log a New Report Page clicked
+18:25:37.820 INFO  smokeTests.SmokeTest -Assert if Title is - Adverse Events - Safe Track
+18:25:37.820 INFO  smokeTests.SmokeTest -======================Test Ended======================
+18:25:38.190 INFO  smokeTests.SmokeTest -Assert if Title is - Adverse Events - Safe Track
+18:27:46.949 INFO  smokeTests.SmokeTest -~~~~~~~~~~~~~~~~~~~~~~~~~Test in Chrome Browser~~~~~~~~~~~~~~~~~~~~~~~~~
+18:28:23.540 INFO  smokeTests.SmokeTest -======================Test Started======================
+18:28:23.540 INFO  smokeTests.SmokeTest -Test for Log in as Contact Centre User Test
+18:28:24.161 INFO  pages.LoginPage -Locating the User Name Text Box
+18:28:24.430 INFO  pages.LoginPage -Type User Name as automation.operative@m3test.com
+18:28:24.465 INFO  pages.LoginPage -Locating the Password text box
+18:28:24.603 INFO  pages.LoginPage -Type Password as Test12345
+18:28:26.429 INFO  pages.LoginPage -Click on the Login Button
+18:28:26.524 INFO  pages.HomePage -Logout button Element found
+18:28:26.566 INFO  smokeTests.SmokeTest -Assert if Logout Button is present
+18:28:26.566 INFO  smokeTests.SmokeTest -======================Test Ended======================
+18:28:26.578 INFO  smokeTests.SmokeTest -======================Test Started======================
+18:28:26.578 INFO  smokeTests.SmokeTest -Test to Navigate to Log on Report Page
+18:28:27.795 INFO  pages.HomePage -Clicked on Log a new report button
+18:28:27.810 INFO  smokeTests.SmokeTest -Assert if Title is - Log a new report - SafeTrack
+18:28:27.810 INFO  smokeTests.SmokeTest -======================Test Ended======================
+18:28:27.819 INFO  smokeTests.SmokeTest -======================Test Started======================
+18:28:27.819 INFO  smokeTests.SmokeTest -Test to Fill Log a New Report Page
+18:28:27.983 INFO  pages.LogNewReportPage -Selected on Reporting Option
+18:28:28.277 INFO  pages.LogNewReportPage -Reporter First Name entered Tester F
+18:28:28.477 INFO  pages.LogNewReportPage -Reporter Surname entered Tester S
+18:28:28.649 INFO  pages.LogNewReportPage -Selected Reporter Type - Medical Doctor from the Dropdown
+18:28:28.724 INFO  pages.LogNewReportPage -Initial Report is selected by default
+18:28:29.311 INFO  pages.LogNewReportPage -Company Aware Date entered
+18:28:29.589 INFO  pages.LogNewReportPage -Patient ID entered
+18:28:29.876 INFO  pages.LogNewReportPage -Other Reference entered
+18:28:30.038 INFO  pages.LogNewReportPage -Product complaint to report checked
+18:28:30.795 INFO  pages.LogNewReportPage -Complaint description entered
+18:28:35.820 INFO  pages.LogNewReportPage -Next button on the Log a New Report Page clicked
+18:28:35.842 INFO  smokeTests.SmokeTest -Assert if Title is - Adverse Events - Safe Track
+18:28:35.842 INFO  smokeTests.SmokeTest -======================Test Ended======================
+18:28:36.172 INFO  smokeTests.SmokeTest -Assert if Title is - Adverse Events - Safe Track
+18:39:51.720 INFO  smokeTests.SmokeTest -~~~~~~~~~~~~~~~~~~~~~~~~~Test in Chrome Browser~~~~~~~~~~~~~~~~~~~~~~~~~
+18:40:01.534 INFO  smokeTests.SmokeTest -======================Test Started======================
+18:40:01.535 INFO  smokeTests.SmokeTest -Test for Log in as Contact Centre User Test
+18:40:01.630 INFO  pages.LoginPage -Locating the User Name Text Box
+18:40:01.817 INFO  pages.LoginPage -Type User Name as automation.operative@m3test.com
+18:40:01.857 INFO  pages.LoginPage -Locating the Password text box
+18:40:01.969 INFO  pages.LoginPage -Type Password as Test12345
+18:40:03.398 INFO  pages.LoginPage -Click on the Login Button
+18:40:03.488 INFO  pages.HomePage -Logout button Element found
+18:40:03.518 INFO  smokeTests.SmokeTest -Assert if Logout Button is present
+18:40:03.518 INFO  smokeTests.SmokeTest -======================Test Ended======================
+18:40:03.525 INFO  smokeTests.SmokeTest -======================Test Started======================
+18:40:03.525 INFO  smokeTests.SmokeTest -Test to Navigate to Log on Report Page
+18:40:04.424 INFO  pages.HomePage -Clicked on Log a new report button
+18:40:04.436 INFO  smokeTests.SmokeTest -Assert if Title is - Log a new report - SafeTrack
+18:40:04.436 INFO  smokeTests.SmokeTest -======================Test Ended======================
+18:40:04.442 INFO  smokeTests.SmokeTest -======================Test Started======================
+18:40:04.442 INFO  smokeTests.SmokeTest -Test to Fill Log a New Report Page
+18:40:04.577 INFO  pages.LogNewReportPage -Selected on Reporting Option
+18:40:04.872 INFO  pages.LogNewReportPage -Reporter First Name entered Tester F
+18:40:05.121 INFO  pages.LogNewReportPage -Reporter Surname entered Tester S
+18:40:05.330 INFO  pages.LogNewReportPage -Selected Reporter Type - Medical Doctor from the Dropdown
+18:40:05.386 INFO  pages.LogNewReportPage -Initial Report is selected by default
+18:40:05.971 INFO  pages.LogNewReportPage -Company Aware Date entered
+18:40:06.207 INFO  pages.LogNewReportPage -Patient ID entered
+18:40:06.417 INFO  pages.LogNewReportPage -Other Reference entered
+18:40:06.566 INFO  pages.LogNewReportPage -Product complaint to report checked
+18:40:07.183 INFO  pages.LogNewReportPage -Complaint description entered
+18:40:10.511 INFO  pages.LogNewReportPage -Next button on the Log a New Report Page clicked
+18:40:10.534 INFO  smokeTests.SmokeTest -Assert if Title is - Adverse Events - Safe Track
+18:40:10.550 INFO  smokeTests.SmokeTest -======================Test Ended======================
+18:40:10.885 INFO  smokeTests.SmokeTest -Assert if Title is - Adverse Events - Safe Track
+18:42:35.041 INFO  smokeTests.SmokeTest -~~~~~~~~~~~~~~~~~~~~~~~~~Test in Chrome Browser~~~~~~~~~~~~~~~~~~~~~~~~~
+18:43:15.372 INFO  smokeTests.SmokeTest -======================Test Started======================
+18:43:15.372 INFO  smokeTests.SmokeTest -Test for Log in as Contact Centre User Test
+18:43:15.782 INFO  pages.LoginPage -Locating the User Name Text Box
+18:43:15.980 INFO  pages.LoginPage -Type User Name as automation.operative@m3test.com
+18:43:16.010 INFO  pages.LoginPage -Locating the Password text box
+18:43:16.141 INFO  pages.LoginPage -Type Password as Test12345
+18:43:17.826 INFO  pages.LoginPage -Click on the Login Button
+18:43:17.939 INFO  pages.HomePage -Logout button Element found
+18:43:17.978 INFO  smokeTests.SmokeTest -Assert if Logout Button is present
+18:43:17.978 INFO  smokeTests.SmokeTest -======================Test Ended======================
+18:43:17.988 INFO  smokeTests.SmokeTest -======================Test Started======================
+18:43:17.988 INFO  smokeTests.SmokeTest -Test to Navigate to Log on Report Page
+18:43:18.916 INFO  pages.HomePage -Clicked on Log a new report button
+18:43:18.929 INFO  smokeTests.SmokeTest -Assert if Title is - Log a new report - SafeTrack
+18:43:18.929 INFO  smokeTests.SmokeTest -======================Test Ended======================
+18:43:18.936 INFO  smokeTests.SmokeTest -======================Test Started======================
+18:43:18.936 INFO  smokeTests.SmokeTest -Test to Fill Log a New Report Page
+18:43:19.176 INFO  pages.LogNewReportPage -Selected on Reporting Option
+18:43:19.404 INFO  pages.LogNewReportPage -Reporter First Name entered Tester F
+18:43:19.614 INFO  pages.LogNewReportPage -Reporter Surname entered Tester S
+18:43:19.793 INFO  pages.LogNewReportPage -Selected Reporter Type - Medical Doctor from the Dropdown
+18:43:19.858 INFO  pages.LogNewReportPage -Initial Report is selected by default
+18:43:20.412 INFO  pages.LogNewReportPage -Company Aware Date entered
+18:43:20.663 INFO  pages.LogNewReportPage -Patient ID entered
+18:43:20.897 INFO  pages.LogNewReportPage -Other Reference entered
+18:43:21.061 INFO  pages.LogNewReportPage -Product complaint to report checked
+18:43:21.814 INFO  pages.LogNewReportPage -Complaint description entered
+18:43:25.258 INFO  pages.LogNewReportPage -Next button on the Log a New Report Page clicked
+18:43:25.273 INFO  smokeTests.SmokeTest -Assert if Title is - Adverse Events - Safe Track
+18:43:25.274 INFO  smokeTests.SmokeTest -======================Test Ended======================
+18:43:25.630 INFO  smokeTests.SmokeTest -Assert if Title is - Adverse Events - Safe Track
+18:45:23.935 INFO  smokeTests.SmokeTest -~~~~~~~~~~~~~~~~~~~~~~~~~Test in Chrome Browser~~~~~~~~~~~~~~~~~~~~~~~~~
+18:45:52.018 INFO  smokeTests.SmokeTest -======================Test Started======================
+18:45:52.018 INFO  smokeTests.SmokeTest -Test for Log in as Contact Centre User Test
+18:45:52.144 INFO  pages.LoginPage -Locating the User Name Text Box
+18:45:52.407 INFO  pages.LoginPage -Type User Name as automation.operative@m3test.com
+18:45:52.442 INFO  pages.LoginPage -Locating the Password text box
+18:45:52.577 INFO  pages.LoginPage -Type Password as Test12345
+18:46:02.155 INFO  pages.LoginPage -Click on the Login Button
+18:46:02.235 INFO  pages.HomePage -Logout button Element found
+18:46:02.286 INFO  smokeTests.SmokeTest -Assert if Logout Button is present
+18:46:02.286 INFO  smokeTests.SmokeTest -======================Test Ended======================
+18:46:02.294 INFO  smokeTests.SmokeTest -======================Test Started======================
+18:46:02.294 INFO  smokeTests.SmokeTest -Test to Navigate to Log on Report Page
+18:46:03.849 INFO  pages.HomePage -Clicked on Log a new report button
+18:46:03.865 INFO  smokeTests.SmokeTest -Assert if Title is - Log a new report - SafeTrack
+18:46:03.866 INFO  smokeTests.SmokeTest -======================Test Ended======================
+18:46:03.935 INFO  smokeTests.SmokeTest -======================Test Started======================
+18:46:03.935 INFO  smokeTests.SmokeTest -Test to Fill Log a New Report Page
+18:46:04.108 INFO  pages.LogNewReportPage -Selected on Reporting Option
+18:46:04.445 INFO  pages.LogNewReportPage -Reporter First Name entered Tester F
+18:46:04.726 INFO  pages.LogNewReportPage -Reporter Surname entered Tester S
+18:46:04.909 INFO  pages.LogNewReportPage -Selected Reporter Type - Medical Doctor from the Dropdown
+18:46:04.979 INFO  pages.LogNewReportPage -Initial Report is selected by default
+18:46:05.570 INFO  pages.LogNewReportPage -Company Aware Date entered
+18:46:05.842 INFO  pages.LogNewReportPage -Patient ID entered
+18:46:06.091 INFO  pages.LogNewReportPage -Other Reference entered
+18:46:06.267 INFO  pages.LogNewReportPage -Product complaint to report checked
+18:46:07.103 INFO  pages.LogNewReportPage -Complaint description entered
+18:46:09.714 INFO  pages.LogNewReportPage -Next button on the Log a New Report Page clicked
+18:46:09.741 INFO  smokeTests.SmokeTest -Assert if Title is - Adverse Events - Safe Track
+18:46:09.741 INFO  smokeTests.SmokeTest -======================Test Ended======================
+18:46:10.103 INFO  smokeTests.SmokeTest -Assert if Title is - Adverse Events - Safe Track
+18:48:53.134 INFO  smokeTests.SmokeTest -~~~~~~~~~~~~~~~~~~~~~~~~~Test in Chrome Browser~~~~~~~~~~~~~~~~~~~~~~~~~
+18:49:39.786 INFO  smokeTests.SmokeTest -======================Test Started======================
+18:49:39.786 INFO  smokeTests.SmokeTest -Test for Log in as Contact Centre User Test
+18:49:40.378 INFO  pages.LoginPage -Locating the User Name Text Box
+18:49:40.579 INFO  pages.LoginPage -Type User Name as automation.operative@m3test.com
+18:49:40.613 INFO  pages.LoginPage -Locating the Password text box
+18:49:40.719 INFO  pages.LoginPage -Type Password as Test12345
+18:49:42.624 INFO  pages.LoginPage -Click on the Login Button
+18:49:42.938 INFO  pages.HomePage -Logout button Element found
+18:49:43.183 INFO  smokeTests.SmokeTest -Assert if Logout Button is present
+18:49:43.183 INFO  smokeTests.SmokeTest -======================Test Ended======================
+18:49:43.193 INFO  smokeTests.SmokeTest -======================Test Started======================
+18:49:43.194 INFO  smokeTests.SmokeTest -Test to Navigate to Log on Report Page
+18:49:43.986 INFO  pages.HomePage -Clicked on Log a new report button
+18:49:43.995 INFO  smokeTests.SmokeTest -Assert if Title is - Log a new report - SafeTrack
+18:49:43.995 INFO  smokeTests.SmokeTest -======================Test Ended======================
+18:49:44.001 INFO  smokeTests.SmokeTest -======================Test Started======================
+18:49:44.001 INFO  smokeTests.SmokeTest -Test to Fill Log a New Report Page
+18:49:44.178 INFO  pages.LogNewReportPage -Selected on Reporting Option
+18:49:44.495 INFO  pages.LogNewReportPage -Reporter First Name entered Tester F
+18:49:44.642 INFO  pages.LogNewReportPage -Reporter Surname entered Tester S
+18:49:44.959 INFO  pages.LogNewReportPage -Selected Reporter Type - Medical Doctor from the Dropdown
+18:49:45.005 INFO  pages.LogNewReportPage -Initial Report is selected by default
+18:49:45.473 INFO  pages.LogNewReportPage -Company Aware Date entered
+18:49:45.658 INFO  pages.LogNewReportPage -Patient ID entered
+18:49:45.820 INFO  pages.LogNewReportPage -Other Reference entered
+18:49:46.019 INFO  pages.LogNewReportPage -Product complaint to report checked

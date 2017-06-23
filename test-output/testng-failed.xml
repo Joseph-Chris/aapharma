@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [SmokeSuite]">
+  <test name="SmokeTest(failed)">
+    <parameter name="browserType" value="chrome"/>
+    <classes>
+      <class name="smokeTests.SmokeTest">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="navigateToLogOnReportPageTest"/>
+          <include name="fillAdverseEventPage"/>
+          <include name="fillLogANewReportPageTest"/>
+          <include name="afterClass"/>
+          <include name="loginAsContactCentreUserTest"/>
+        </methods>
+      </class> <!-- smokeTests.SmokeTest -->
+    </classes>
+  </test> <!-- SmokeTest(failed) -->
+</suite> <!-- Failed suite [SmokeSuite] -->

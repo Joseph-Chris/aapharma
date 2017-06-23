@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SmokeSuite">
+	<test name="SmokeTest" preserve-order="true">
+		<parameter name="browserType" value="chrome" />
+		<classes>
+			<class name="smokeTests.SmokeTest">
+			</class>
+		</classes>
+	</test>
+</suite>
+<!-- Whatever here is a comment -->
